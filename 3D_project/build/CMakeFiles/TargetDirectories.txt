@@ -1,0 +1,3 @@
+C:/Users/omarg/Desktop/3D_project/build/CMakeFiles/rebuild_cache.dir
+C:/Users/omarg/Desktop/3D_project/build/CMakeFiles/Deneme.dir
+C:/Users/omarg/Desktop/3D_project/build/CMakeFiles/edit_cache.dir
